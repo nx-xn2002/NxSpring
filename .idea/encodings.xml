@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/framework/nxspring-context/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/framework/nxspring-context/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/learn-by-step/1-resource-resolver/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/learn-by-step/1-resource-resolver/src/main/resources" charset="UTF-8" />
+  </component>
+</project>
