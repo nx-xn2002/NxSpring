@@ -8,6 +8,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="resource-resolver" />
+        <module name="property-resolver" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="19">
