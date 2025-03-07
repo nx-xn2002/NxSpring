@@ -9,11 +9,9 @@
         <outputRelativeToContentRoot value="true" />
         <module name="resource-resolver" />
         <module name="property-resolver" />
+        <module name="3-bean-definition" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel target="19">
-      <module name="1-resource-resolver" target="17" />
-      <module name="nxspring" target="1.5" />
-    </bytecodeTargetLevel>
+    <bytecodeTargetLevel target="19" />
   </component>
 </project>

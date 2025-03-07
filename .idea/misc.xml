@@ -8,6 +8,7 @@
         <option value="$PROJECT_DIR$/learn-by-step/1-resource-resolver/pom.xml" />
         <option value="$PROJECT_DIR$/learn-by-step/property-resolver/pom.xml" />
         <option value="$PROJECT_DIR$/learn-by-step/2-property-resolver/pom.xml" />
+        <option value="$PROJECT_DIR$/learn-by-step/3-bean-definition/pom.xml" />
       </list>
     </option>
   </component>
